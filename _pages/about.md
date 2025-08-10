@@ -25,14 +25,13 @@ Welcome! I am a postdoctoral researcher at the <a href="https://rclr.nl/">Resear
 <i class="fa fa-graduation-cap" aria-hidden="true"></i> BSc in Mathematics, KU Leuven, 2014-2017   
 
 ## News
+<i class="fa fa-info-circle" aria-hidden="true"></i> Starting September, I will be a guest lecturer for part of the courses <a href="https://onderwijsaanbod.kuleuven.be/syllabi/e/D0R33AE.htm">Loss Models</a>Loss Models</a> and <a https://onderwijsaanbod.kuleuven.be/syllabi/e/D0N56AE.htm"></a>Advanced Life Insurance Mathematics</a> at KU Leuven.
+
+<i class="fa fa-info-circle" aria-hidden="true"></i> Our paper "<i>The short-term association between environmental variables and mortality: evidence from Europe </i>", co-authored with Katrien Antonio and Torsten Kleinow, has been published in the <b>Journal of the Royal Statistical Society Series A</b>. You can read it <a href="
+https://academic.oup.com/jrsssa/advance-article/doi/10.1093/jrsssa/qnaf052/8142302">here</a>.
+
 <i class="fa fa-info-circle" aria-hidden="true"></i> Our new working paper, co-authored with Karim Barigou (UCLouvain) and Torsten Kleinow (UvA), is now available: "<i>Granular mortality modeling with temperature and epidemic shocks: a three-state regime-switching approach
 </i>". You can read it on <a href="https://arxiv.org/abs/2503.04568">arXiv</a>.
 
 <i class="fa fa-info-circle" aria-hidden="true"></i> As of September 1, 2024 I have started as a postdoctoral researcher at the Research Centre for Longevity Risk of the University of Amsterdam.
-
-<i class="fa fa-info-circle" aria-hidden="true"></i> Our new working paper, co-authored with Katrien Antonio (KUL, UvA) and Torsten Kleinow (UvA), is now available: "<i>The short-term association between environmental variables and mortality: evidence from Europe</i>". You can read it on <a href="https://arxiv.org/abs/2405.18020">arXiv</a>.
-
-<i class="fa fa-info-circle" aria-hidden="true"></i> Our paper "<i>Catastrophe risk in a stochastic multi-population mortality model</i>", co-authored with Katrien Antonio, has been accepted for publication in the <b>Journal of Risk and Insurance</b>. You can read it <a href="
-https://doi.org/10.1111/jori.12470">here</a> or on <a href="
-https://doi.org/10.48550/arXiv.2306.15271">arXiv</a>.
 
