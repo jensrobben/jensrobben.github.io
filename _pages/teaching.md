@@ -7,7 +7,7 @@ author_profile: true
 {% include base_path %}
 
 # University of Amsterdam
-## Academic year 2024-2025
+## Academic year 2025-2026
 Teaching assistant <a href="https://studiegids.uva.nl/xmlpages/page/2024-2025/zoek-vak/vak/120488">Life Insurance Mathematics</a>, <a href="https://studiegids.uva.nl/xmlpages/page/2024-2025/zoek-vak/vak/120718">Introduction Econometrics and Actuarial Science</a>, and <a href="https://studiegids.uva.nl/xmlpages/page/2024-2025/zoek-vak/vak/121026">Introduction Data Science</a>  
 Work leader 3 bachelor and 2 master's theses.
 
@@ -22,7 +22,7 @@ Work leader 3 bachelor and 2 master's theses.
       
 
 # KU Leuven
-## Academic year 2023-2024
+## Academic year 2025-2026
 Guest lecturer for the courses <a href="https://onderwijsaanbod.kuleuven.be/syllabi/e/D0R33AE.htm">Loss Models</a> and <a href= "https://onderwijsaanbod.kuleuven.be/syllabi/e/D0N56AE.htm">Advanced Life Insurance Mathematics</a> at KU Leuven (co-teaching with Katrien Antonio).
 
 ## Academic year 2023-2024
