@@ -25,7 +25,7 @@ Welcome! I am a postdoctoral researcher at the <a href="https://rclr.nl/">Resear
 <i class="fa fa-graduation-cap" aria-hidden="true"></i> BSc in Mathematics, KU Leuven, 2014-2017   
 
 ## News
-<i class="fa fa-info-circle" aria-hidden="true"></i> Starting September, I will be a guest lecturer for part of the courses <a href="https://onderwijsaanbod.kuleuven.be/syllabi/e/D0R33AE.htm">Loss Models</a> and <a href= "https://onderwijsaanbod.kuleuven.be/syllabi/e/D0N56AE.htm"></a>Advanced Life Insurance Mathematics</a> at KU Leuven.
+<i class="fa fa-info-circle" aria-hidden="true"></i> Starting September, I will be a guest lecturer for part of the courses <a href="https://onderwijsaanbod.kuleuven.be/syllabi/e/D0R33AE.htm">Loss Models</a> and <a href= "https://onderwijsaanbod.kuleuven.be/syllabi/e/D0N56AE.htm">Advanced Life Insurance Mathematics</a> at KU Leuven.
 
 <i class="fa fa-info-circle" aria-hidden="true"></i> Our paper "<i>The short-term association between environmental variables and mortality: evidence from Europe </i>", co-authored with Katrien Antonio and Torsten Kleinow, has been published in the <b>Journal of the Royal Statistical Society Series A</b>. You can read it <a href="
 https://academic.oup.com/jrsssa/advance-article/doi/10.1093/jrsssa/qnaf052/8142302">here</a>.
