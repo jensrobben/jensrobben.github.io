@@ -23,7 +23,7 @@ Work leader 3 bachelor and 2 master's theses.
 
 # KU Leuven
 ## Academic year 2025-2026
-Guest lecturer for the courses <a href="https://onderwijsaanbod.kuleuven.be/syllabi/e/D0R33AE.htm">Loss Models</a> and <a href= "https://onderwijsaanbod.kuleuven.be/syllabi/e/D0N56AE.htm">Advanced Life Insurance Mathematics</a> at KU Leuven (co-teaching with Katrien Antonio).
+Guest lecturer for the courses <a href="https://onderwijsaanbod.kuleuven.be/syllabi/e/D0R33AE.htm">Loss Models</a> and <a href= "https://onderwijsaanbod.kuleuven.be/syllabi/e/D0N56AE.htm">Advanced Life Insurance Mathematics</a> (co-teaching with Katrien Antonio).
 
 ## Academic year 2023-2024
 Teaching assistant <a href="https://onderwijsaanbod.kuleuven.be/2023/syllabi/e/D0R33AE.htm#activetab=doelstellingen_idm9308800">Loss Models</a>: taught 5 exercise sessions and developed/evaluated three assignements   
