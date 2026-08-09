@@ -1,6 +1,5 @@
 ---
-title: "A penalized distributed lag non-linear Lee-Carter framework for
-regional weekly mortality forecasting"
+title: "A penalized distributed lag non-linear Lee-Carter framework for regional weekly mortality forecasting"
 collection: publications
 permalink: /publication/2026-pendlnm
 date: 2026-05-22
