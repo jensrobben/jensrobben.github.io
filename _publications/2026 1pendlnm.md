@@ -3,11 +3,11 @@ title: "A penalized distributed lag non-linear Lee-Carter framework for regional
 collection: publications
 permalink: /publication/2026-pendlnm
 date: 2026-05-21
-link: 'https://arxiv.org/abs/2503.04568'
-paperurl: '/files/papers/granmors_arxiv.pdf'
+link: 'https://doi.org/10.48550/arXiv.2509.24087'
+paperurl: '/files/papers/pendlnm_arxiv.pdf'
 github: 'https://github.com/jensrobben/GranMoMoRS'
 pubtype: 'workingpaper'
-citation: 'Robben, J., Barigou, K., Kleinow, T. (2025). Granular mortality modeling with temperature and epidemic shocks: a three-state regime-switching approach. arXiv preprint arXiv:2503.04568'
+citation: 'Robben, J. & Barigou, K. (2026). A penalized distributed lag non-linear Lee-Carter framework for regional weekly mortality forecasting. Working paper. DOI: 10.48550/arXiv.2509.24087'
 
 ---
 
